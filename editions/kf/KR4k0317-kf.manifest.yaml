@@ -7,7 +7,7 @@ assets:
   parts:
   - {seq: 0, filename: KR4k0317_000-kf.yaml, hash: 'sha256:ef6a66cba1345bed6a78564fca123db48a075b5ca709d3a9a5a282166055dbbf'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4k0317_000-kf.markers.yaml, hash: 'sha256:d3c2992a60ac8d2ef843803306d0bfb586f9741fc7b2f28108ae461e3113679d'}
+  - {seq: 0, role: markers, filename: assets/KR4k0317_000-kf.markers.yaml, hash: 'sha256:f2a8da33d24d4c65adacc87a4b6d7800d73aa87e75fad153bf527198650f1569'}
 table_of_contents:
 - ref:
     seq: 0
@@ -30,4 +30,4 @@ metadata:
     path: data/tls/KR4k0317.xml
   edition:
     short: kf
-hash: sha256:30539b534719108481cbab1e99c6db513bd1c143605eb46854124a1b86ea2c0b
+hash: sha256:27815cdf1cac42511062bbab8bd6eeb06768e2f776d6d878d8919f6c212c62f5
